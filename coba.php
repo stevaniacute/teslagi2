@@ -6,6 +6,7 @@
 	<title>Document</title>
 </head>
 <body><h2>hello world</h2>
+	   <p> Lorem ipsum </p>
 	
 </body>
 </html>
