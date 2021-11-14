@@ -7,6 +7,9 @@
 </head>
 <body><h2>hello world</h2>
 	   <p> Lorem ipsum </p>
+	   <ul><li>hallo</li>
+	   	   <li>eddy</li>
+	   	</ul>
 	
 </body>
 </html>
